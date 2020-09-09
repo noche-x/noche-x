@@ -8,8 +8,8 @@
 - 🤝 I’m open to collaborate on any of my projects
 - 🌍 I'm mostly active within the **PSP Homebrew Developer Community**
 - ⚙️ I use : `.cpp`, `.c`, `.html`, `.css`, `.py`, `.sh`, `.csharp`
-- 🎥 Check my (YouTube)[youtube]
-- 🎥 I have a (Website)[website]
+- 🎥 Check my [YouTube][youtube]
+- 🎥 I have a [Website][website]
 - 📫 Reach me at Discord: **noche#6699**
 
 ---
