@@ -63,6 +63,11 @@
   <summary>:zap: recent github activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#20](https://github.com//NT-Bourgeois-Iridescence-Technologies/Stardust-Engine/issues/20) in [NT-Bourgeois-Iridescence-Technologies/Stardust-Engine](https://github.com//NT-Bourgeois-Iridescence-Technologies/Stardust-Engine)
+2. 🗣 Commented on [#18](https://github.com//NT-Bourgeois-Iridescence-Technologies/Stardust-Engine/issues/18) in [NT-Bourgeois-Iridescence-Technologies/Stardust-Engine](https://github.com//NT-Bourgeois-Iridescence-Technologies/Stardust-Engine)
+3. ❗️ Opened issue [#20](https://github.com//NT-Bourgeois-Iridescence-Technologies/Stardust-Engine/issues/20) in [NT-Bourgeois-Iridescence-Technologies/Stardust-Engine](https://github.com//NT-Bourgeois-Iridescence-Technologies/Stardust-Engine)
+4. ❗️ Opened issue [#19](https://github.com//NT-Bourgeois-Iridescence-Technologies/Stardust-Engine/issues/19) in [NT-Bourgeois-Iridescence-Technologies/Stardust-Engine](https://github.com//NT-Bourgeois-Iridescence-Technologies/Stardust-Engine)
+5. ❗️ Opened issue [#18](https://github.com//NT-Bourgeois-Iridescence-Technologies/Stardust-Engine/issues/18) in [NT-Bourgeois-Iridescence-Technologies/Stardust-Engine](https://github.com//NT-Bourgeois-Iridescence-Technologies/Stardust-Engine)
 <!--END_SECTION:activity-->
 
 </details>
