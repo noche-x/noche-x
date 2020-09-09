@@ -70,7 +70,7 @@
 <details>
   <summary>:zap: github stats</summary>
 
-  <img align="left" alt="noche's github stats" src="https://github-readme-stats.noche-x.vercel.app/api?username=noche-x&show_icons=true&hide_border=true" />
+  <img align="left" alt="noche's github stats" src="https://github-readme-stats.noche.vercel.app/api?username=noche-x&show_icons=true&hide_border=true" />
 
 </details>
 
