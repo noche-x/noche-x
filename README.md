@@ -55,7 +55,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://noche-x.github.io)
+➡️ [more blog posts...](https://noche-x.github.io/blog/index.html)
 
 ---
 
