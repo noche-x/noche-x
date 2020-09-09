@@ -46,6 +46,7 @@
 
 ### 📕 latest blog posts
 
+##### none
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
