@@ -38,6 +38,11 @@
 ### 📺 latest youtube videos
 
 <!-- YOUTUBE:START -->
+- [a question about pspcord](https://www.youtube.com/watch?v=i7vpY55Nkro)
+- [PSP Homebrew Shop | Devlog 1](https://www.youtube.com/watch?v=MacPGjxMkSI)
+- [HOW TO FUCKING INSTALL SHIT FROM GITHUB](https://www.youtube.com/watch?v=EVY2qFPm6sI)
+- [devlog #1 : dawn](https://www.youtube.com/watch?v=2sVEI2D824Q)
+- [Brainfuck for PSP](https://www.youtube.com/watch?v=QncDLI3gziA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCunSFAi2YnI65HnOSHiyOnQ)
