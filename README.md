@@ -1,5 +1,7 @@
 ### Hi I'm noche
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=noche-x" alt="noche-x" /> </p>
+
 ## I'm a Student, Programmer in ???
 
 - ⏱️ I don't have time for anything else than school at the moment. 
