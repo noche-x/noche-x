@@ -46,7 +46,7 @@
 
   <img align="left" alt="noche's github stats" src="https://github-readme-stats.noche.vercel.app/api?username=noche-x&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
-<img align="right" alt="PSP Homebrew Shop" src="https://github-readme-stats.noche.vercel.app/api?username=noche-x&repo=psp-homebrew-shop&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+![PSP Homebrew Shop](https://github-readme-stats.noche.vercel.app/api/pin?username=noche-x&repo=psp-homebrew-shop&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 </details>
 
