@@ -19,11 +19,11 @@
   <summary>:zap: Recent Youtube Videos</summary>
   
 <!-- YOUTUBE:START -->
+- [coding plugins for my SUB ROSA SERVER](https://www.youtube.com/watch?v=eacCCkQ3W6o)
 - [How 2 Buy Heli SUBROSA](https://www.youtube.com/watch?v=5l_uC5Ml-IU)
 - [MOST WANTED IN SUBROSA](https://www.youtube.com/watch?v=Kyd2nRyGYAc)
 - [a question about pspcord](https://www.youtube.com/watch?v=i7vpY55Nkro)
 - [PSP Homebrew Shop | Devlog 1](https://www.youtube.com/watch?v=MacPGjxMkSI)
-- [HOW TO FUCKING INSTALL SHIT FROM GITHUB](https://www.youtube.com/watch?v=EVY2qFPm6sI)
 <!-- YOUTUBE:END -->
 
 </details>
