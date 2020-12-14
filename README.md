@@ -5,10 +5,10 @@
 ## I'm a Student, Programmer in ???
 
 - ⏱️ I don't have time for anything else than school at the moment. 
-- ~~🛒 I'm currently working on [PSP Homebrew Shop][curlink].~~
+- 🛒 I'm currently working on [**Sub Rosa Modded Server**][curlink].
 - 🌍 I'm currently studying and learning **every aspect of everything**
 - 🤝 I’m open to collaborate on any of my projects
-- 🌍 I'm mostly active within the **PSP Homebrew Developer Community**
+- 🌍 I'm mostly active within the **PSP Homebrew Developer Community** and **Sub Rosa**
 - ⚙️ I use : `.cpp`, `.c`, `.html`, `.css`, `.py`, `.sh`, `.csharp`
 - 🎥 Check my [YouTube][youtube]
 - 🎥 I have a [Website][website]
@@ -53,3 +53,4 @@
 [website]: https://noche-x.github.io
 [youtube]: https://www.youtube.com/channel/UCunSFAi2YnI65HnOSHiyOnQ
 [blog]: https://noche-x.github.io/blog/index.html
+[curlink]: https://noche-x.github.io/eg
