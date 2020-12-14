@@ -5,7 +5,7 @@
 ## I'm a Student, Programmer in ???
 
 - ⏱️ I don't have time for anything else than school at the moment. 
-- 🛒 I'm currently working on [**Sub Rosa Modded Server**][curlink].
+- 🛒 I'm currently working on a [**Custom Sub Rosa Modded Server**][curlink].
 - 🌍 I'm currently studying and learning **every aspect of everything**
 - 🤝 I’m open to collaborate on any of my projects
 - 🌍 I'm mostly active within the **PSP Homebrew Developer Community** and **Sub Rosa**
