@@ -19,11 +19,11 @@
   <summary>:zap: Recent Youtube Videos</summary>
   
 <!-- YOUTUBE:START -->
+- [MEGA CORP BOMBINGS (colorized) (1985)](https://www.youtube.com/watch?v=M2851BxeBbQ)
 - [EG | Pre-Trailer 1](https://www.youtube.com/watch?v=gH3RPo9F-dY)
 - [How 2 Buy Heli SUBROSA](https://www.youtube.com/watch?v=5l_uC5Ml-IU)
 - [MOST WANTED IN SUBROSA](https://www.youtube.com/watch?v=Kyd2nRyGYAc)
 - [a question about pspcord](https://www.youtube.com/watch?v=i7vpY55Nkro)
-- [PSP Homebrew Shop | Devlog 1](https://www.youtube.com/watch?v=MacPGjxMkSI)
 <!-- YOUTUBE:END -->
 
 </details>
