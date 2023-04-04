@@ -1,4 +1,6 @@
-![Metrics](/github-metrics.svg)
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
 # noche
 <h3><a href="noche0.xyz">Website</a></h3>
